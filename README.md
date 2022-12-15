@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew. I've been a full-stack developer for 5 years, primarily working with various .NET Framework and .NET Core applications.
-- 👀 I’m interested in :
+- 👀 I’m interested in:
    - REST APIs 
    - SPAs (including, but not limited to, Blazor)
    - WebAssembly 
